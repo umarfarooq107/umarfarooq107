@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Umar Farooq,
 
-<!--
-**umarfarooq107/umarfarooq107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A passionate Web Developer / React Developer / WordPress Expert with more than three years  experience in  
+HTML, CSS, JS, React, PHP, WordPress, and Wix.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML5, CSS3, JavaScript
+- React.js, Bootstrap
+- PHP, WordPress, Wix
+- MySQL, APIs, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+⭐ **Feel free to check out my repositories and connect with me!**
