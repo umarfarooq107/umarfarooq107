@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Umar Farooq,
+# 👋 Hi, I'm Umar Farooq
 
 ## 🚀 About Me
 A passionate Web Developer / React Developer / WordPress Expert with more than three years  experience in  
